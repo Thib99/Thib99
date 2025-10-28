@@ -1,8 +1,8 @@
 # 💫 About Me:
 :mortar_board: 
- <pre> 🇬🇧 I'm currently a student in M1 Artificial Intelligence at Paris-Saclay University. <br> 🇫🇷 Je suis actuellement étudiant en M1 Intelligence Artificielle à l'Université Paris-Saclay. </pre>
+ <pre> 🇬🇧 I'm currently a student in M2 Artificial Intelligence at Paris-Saclay University. <br> 🇫🇷 Je suis actuellement étudiant en M2 Intelligence Artificielle à l'Université Paris-Saclay. </pre>
 :office: 
-<pre> 🇬🇧 I'm looking for an internship in Computer Vision or Machine Learning. <br> 🇫🇷 Je suis à la recherche d'un stage en Vision par Ordinateur ou en Apprentissage Automatique. </pre>
+<pre> 🇬🇧 I am currently looking for a 6-month internship in Computer Vision, available from March 2026. <br> 🇫🇷 Je suis actuellement à la recherche d’un stage de 6 mois en vision par ordinateur, disponible à partir de mars 2026.</pre>
 
 
 # 💻 Tech Stack:
